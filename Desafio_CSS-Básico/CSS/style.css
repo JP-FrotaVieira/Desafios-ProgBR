@@ -1,5 +1,5 @@
 body{
-    background-color: black;
+    background-color: rgb(191, 191, 204);
 }
 
 .josefin_Slab{
@@ -17,6 +17,10 @@ body{
     left: 0;
     top: 0;
     margin: auto;
+    
+}
+#cartao:hover{
+    box-shadow: 1px 1px 3px #00d9ffb2, 0 0 5px #b700ff85;
 }
 
 #l1{
